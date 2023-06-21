@@ -1,5 +1,8 @@
 <html>
-<body>
-<h2> Hello cloudbots...from jenkins using deploy to container plugin
-</body>
+	<head>
+		<title>Welcome</title>
+	</head>
+	<body>
+		<h1>Hello World.</h1>
+	</body>
 </html>
